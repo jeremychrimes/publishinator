@@ -1,1 +1,1 @@
-# publishinator
+# Publishinator - A simple pub/sub for small Java Projects
